@@ -37,7 +37,7 @@ namespace BuilderMethod.Builder
         {
             Hero result = this._hero;
             this.Reset();
-            return this._hero;
+            return result;
         }
     }
 }
