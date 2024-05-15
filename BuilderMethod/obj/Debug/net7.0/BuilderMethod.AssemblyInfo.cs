@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BuilderMethod")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d255ad33343e344822ce0e88ee952ea1c92e0d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("BuilderMethod")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BuilderMethod")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

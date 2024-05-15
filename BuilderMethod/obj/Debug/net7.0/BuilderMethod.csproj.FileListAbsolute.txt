@@ -25,9 +25,10 @@ C:\Users\sneyder\source\repos\BuilderMethod\BuilderMethod\obj\Debug\net7.0\stati
 C:\Users\sneyder\source\repos\BuilderMethod\BuilderMethod\obj\Debug\net7.0\staticwebassets.build.json
 C:\Users\sneyder\source\repos\BuilderMethod\BuilderMethod\obj\Debug\net7.0\staticwebassets.development.json
 C:\Users\sneyder\source\repos\BuilderMethod\BuilderMethod\obj\Debug\net7.0\scopedcss\bundle\BuilderMethod.styles.css
-C:\Users\sneyder\source\repos\BuilderMethod\BuilderMethod\obj\Debug\net7.0\BuilderMethod.csproj.CopyComplete
 C:\Users\sneyder\source\repos\BuilderMethod\BuilderMethod\obj\Debug\net7.0\BuilderMethod.dll
 C:\Users\sneyder\source\repos\BuilderMethod\BuilderMethod\obj\Debug\net7.0\refint\BuilderMethod.dll
 C:\Users\sneyder\source\repos\BuilderMethod\BuilderMethod\obj\Debug\net7.0\BuilderMethod.pdb
 C:\Users\sneyder\source\repos\BuilderMethod\BuilderMethod\obj\Debug\net7.0\BuilderMethod.genruntimeconfig.cache
 C:\Users\sneyder\source\repos\BuilderMethod\BuilderMethod\obj\Debug\net7.0\ref\BuilderMethod.dll
+C:\Users\sneyder\source\repos\BuilderMethod\BuilderMethod\obj\Debug\net7.0\BuilderMethod.sourcelink.json
+C:\Users\sneyder\source\repos\BuilderMethod\BuilderMethod\obj\Debug\net7.0\BuilderM.0113A4D9.Up2Date

@@ -9,7 +9,7 @@
 
         public string toString ()
         {
-            return $"Hero: race: {this.Race}";
+            return $"Hero: race: {this.Race}, Armor: {this.Armor}, Weapon: {this.Weapon}, Skill: {this.Skills}";
         }
     }
 }

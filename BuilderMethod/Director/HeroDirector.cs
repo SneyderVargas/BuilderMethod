@@ -15,5 +15,11 @@ namespace BuilderMethod.Director
         {
             this._heroBuilder.setArmor();
         }
+        public void createHeroFull()
+        {
+            this._heroBuilder.setArmor();
+            this._heroBuilder.setWeapon();
+            this._heroBuilder.setSkills();
+        }
     }
 }

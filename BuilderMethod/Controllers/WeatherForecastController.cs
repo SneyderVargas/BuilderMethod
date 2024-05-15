@@ -28,7 +28,6 @@ namespace BuilderMethod.Controllers
             director.Builder = builder;
 
             director.createHeroBasic();
-            Console.WriteLine(builder.build().Armor);
             return Ok("Servicio Ok" + builder.build().toString());
         }
     }
